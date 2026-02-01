@@ -1,0 +1,8 @@
+{
+  "urls": [
+  ],
+  "deps": [
+    [ "github:melak/micropython-aio-drivers/ai2c", "master" ]
+  ],
+  "version": "0.1"
+}
